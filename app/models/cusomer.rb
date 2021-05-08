@@ -1,0 +1,2 @@
+class Cusomer < ApplicationRecord
+end
